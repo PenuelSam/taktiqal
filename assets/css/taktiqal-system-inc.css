@@ -2019,6 +2019,7 @@ form#contact-form button {
   border: none;
   outline: none;
   transition: all .3s;
+  z-index: 99;
 }
 
 form#contact-form button:hover {
